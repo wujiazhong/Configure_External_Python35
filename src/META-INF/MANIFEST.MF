@@ -3,5 +3,9 @@ Dialog-Specs: ConfigExternalPython35.spd
 Command-Specs: CONFIGURE_EXTERNAL_PYTHON.xml
 Code-Files: CONFIGURE_EXTERNAL_PYTHON.jar
 Summary: Configure_External_Python35
+Description: Configure_External_Python35
+Author: spss
 Version: 1.0.0
 Product-Version: 25
+Date: 07/28/2016
+Product-Version-Maximum: 25
