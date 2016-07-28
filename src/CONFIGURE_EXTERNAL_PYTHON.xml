@@ -1,0 +1,9 @@
+<!-- edited with XMLSPY v2004 rel. 3 U (http://www.xmlspy.com) by Jon Peck (SPSS Inc.) -->
+<Command xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="extension.xsd" Name="CONFIGURE EXTERNAL PYTHON" Language="Java" Mode="Package">
+	<Subcommand Name="" Occurrence="Optional"/>
+	<Subcommand Name="RESET" IsArbitrary="False" Occurrence="Optional"/>
+	<Subcommand Name="SET" IsArbitrary="False" Occurrence="Optional">
+		<Parameter Name="HOME" ParameterType="QuotedString"/>
+	</Subcommand>
+	<Subcommand Name="HELP" Occurrence="Optional"/>
+</Command>
